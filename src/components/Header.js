@@ -191,6 +191,7 @@ const Header = () => {
                     <NavLink to="/product">Sản phẩm</NavLink>
                     <NavLink to="/blogs">Đặt lịch</NavLink>
                     <NavLink to="/contact">Liên hệ</NavLink>
+                    <NavLink to="/about">Calendar</NavLink>
                   </div>
                 </div>
               </div>
